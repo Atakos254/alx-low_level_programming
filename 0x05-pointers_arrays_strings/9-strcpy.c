@@ -1,9 +1,9 @@
 /*
  * File: 9-strcpy.c
- * Auth: Brennan D Baraban
+ * Auth: Atakos Emmanuel
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _strcpy - Copies a string pointed to by @src, including the
