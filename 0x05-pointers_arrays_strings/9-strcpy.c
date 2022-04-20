@@ -14,7 +14,6 @@
  * Return: A pointer to the destination string @dest.
  */
 char *_strcpy(char *dest, char *src)
-	
 {
 	int index = 0;
 	while (src[index] != '\0')
