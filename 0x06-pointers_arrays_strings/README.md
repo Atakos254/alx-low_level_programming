@@ -1,4 +1,5 @@
 0X06.C MORE POINTERS ARRAYS AND STRINGS
+
 0. strcat
 Write a function that concatenates two strings.
 1. strncat
