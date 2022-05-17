@@ -8,6 +8,7 @@
  * Return: void
  */
 void print_strings(const char *separator, const unsigned int n, ...)
+
 {
 	va_list valist;
 	unsigned int i;
@@ -32,6 +33,5 @@ void print_strings(const char *separator, const unsigned int n, ...)
 		}
 	}
 	printf("\n");
-
 	va_end(valist);
 }
